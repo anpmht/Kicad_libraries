@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 9C-7.680MAAJ-T
+#/1364997/495277/2.49/2/0/Crystal or Oscillator
+DEF 9C-7.680MAAJ-T Y 0 30 Y Y 1 F N
+F0 "Y" 350 250 50 H V L CNN
+F1 "9C-7.680MAAJ-T" 350 150 50 H V L CNN
+F2 "9C7680MAAJT" 350 50 50 H I L CNN
+F3 "http://www.txccorp.com/download/products/quartz_crystals/2015TXC_9C_32.pdf" 350 -50 50 H I L CNN
+F4 "Crystals 7.680MHz 30ppm -20 +70C 18pF" 350 -150 50 H I L CNN "Description"
+F5 "4.1" 350 -250 50 H I L CNN "Height"
+F6 "TXC" 350 -350 50 H I L CNN "Manufacturer_Name"
+F7 "9C-7.680MAAJ-T" 350 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "717-9C-7.680MAAJ-T" 350 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/TXC-Corporation/9C-7680MAAJ-T?qs=65dIHZNch5suuilv%2FLIeBQ%3D%3D" 350 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "9C-7.680MAAJ-T" 350 -750 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/9c-7.680maaj-t/txc-corporation?region=nac" 350 -850 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 400 0 100 L 50 50 0 0 P
+P 2 0 1 6 120 100 120 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 5 0 1 6 160 140 160 -140 240 -140 240 140 160 140 N
+P 2 0 1 6 280 0 300 0 N
+P 2 0 1 6 120 0 100 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library

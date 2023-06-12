@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 9C-7.680MAAJ-T
+D Crystals 7.680MHz 30ppm -20 +70C 18pF
+K
+F http://www.txccorp.com/download/products/quartz_crystals/2015TXC_9C_32.pdf
+$ENDCMP
+#
+#End Doc Library

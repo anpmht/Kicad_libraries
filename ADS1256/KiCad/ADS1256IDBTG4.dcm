@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADS1256IDBTG4
+D TEXAS INSTRUMENTS - ADS1256IDBTG4 - Analogue to Digital Converter, 24 bit, 30 kSPS, Differential, Single Ended, SPI, Single, 4.75 V
+K
+F https://www.ti.com/lit/gpn/ads1256
+$ENDCMP
+#
+#End Doc Library
