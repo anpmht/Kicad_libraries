@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM285D-2-5
+D Texas Instruments LM285D-2-5, Shunt Voltage Reference 2.5V, 1.5%, 8-Pin SOIC
+K
+F http://www.ti.com/lit/ds/symlink/lm285-2.5.pdf
+$ENDCMP
+#
+#End Doc Library

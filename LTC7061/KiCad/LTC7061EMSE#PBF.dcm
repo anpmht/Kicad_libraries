@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC7061EMSE#PBF
+D Gate Drivers 100V Dual High-Side Gate Drvr w/ Adj DT
+K
+F https://nl.mouser.com/datasheet/2/609/ltc7061-2089785.pdf
+$ENDCMP
+#
+#End Doc Library
